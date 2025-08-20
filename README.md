@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm shanmugavel</h1>
 
-<h3 align="center">currently pursuing B.E CSE(AI&ML)</h3>
+<h3 align="center"> B.E CSE(AI&ML) Graduated</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmugavel007&label=Profile%20views&color=0e75b6&style=flat" alt="shanmugavel007" /> </p>
 
